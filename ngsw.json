@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1692857906563,
-  "index": "/index.html",
+  "timestamp": 1692858323928,
+  "index": "https://himadripathak.github.io/upload-image/https://himadripathak.github.io/upload-image/",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.c69e75ac63c30b44.js",
-        "/manifest.webmanifest",
-        "/polyfills.a73930539d58170d.js",
-        "/runtime.16c78680000f8b50.js",
-        "/styles.ef46db3751d8e999.css"
+        "https://himadripathak.github.io/upload-image/favicon.ico",
+        "https://himadripathak.github.io/upload-image/index.html",
+        "https://himadripathak.github.io/upload-image/main.c69e75ac63c30b44.js",
+        "https://himadripathak.github.io/upload-image/manifest.webmanifest",
+        "https://himadripathak.github.io/upload-image/polyfills.a73930539d58170d.js",
+        "https://himadripathak.github.io/upload-image/runtime.16c78680000f8b50.js",
+        "https://himadripathak.github.io/upload-image/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-128x128.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-144x144.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-152x152.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-192x192.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-384x384.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-512x512.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-72x72.png",
+        "https://himadripathak.github.io/upload-image/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "18695af5fc2db008dec8a089c5a367ae87e9d35e",
-    "/main.c69e75ac63c30b44.js": "bae8de6766a72ee9f18b10c0448c497f9f7b2750",
-    "/manifest.webmanifest": "5769de85ddd239f880879fe72614f87e97c5c5e8",
-    "/polyfills.a73930539d58170d.js": "655642f77d00a35496998eab658b43f74cad498f",
-    "/runtime.16c78680000f8b50.js": "3e9674bdf76482cfaf60decddcd41758e6415603",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://himadripathak.github.io/upload-image/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://himadripathak.github.io/upload-image/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://himadripathak.github.io/upload-image/index.html": "bae36edce260b5d2f44018825dfeae46de4b17be",
+    "https://himadripathak.github.io/upload-image/main.c69e75ac63c30b44.js": "bae8de6766a72ee9f18b10c0448c497f9f7b2750",
+    "https://himadripathak.github.io/upload-image/manifest.webmanifest": "136a3e38e5e9f29074e586a96e869dda0792bdcb",
+    "https://himadripathak.github.io/upload-image/polyfills.a73930539d58170d.js": "655642f77d00a35496998eab658b43f74cad498f",
+    "https://himadripathak.github.io/upload-image/runtime.16c78680000f8b50.js": "3e9674bdf76482cfaf60decddcd41758e6415603",
+    "https://himadripathak.github.io/upload-image/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
